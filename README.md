@@ -45,7 +45,6 @@ I enjoy exploring new technologies, solving algorithmic problems, and continuous
 ##  GitHub Stats
 ![Melih's GitHub stats](https://github-readme-stats.vercel.app/api?username=MelihKotman&show_icons=true&theme=radical&count_private=true)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MelihKotman&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MelihKotman&theme=radical)  
 
 ---
 
