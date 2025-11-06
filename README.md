@@ -41,10 +41,3 @@ I enjoy exploring new technologies, solving algorithmic problems, and continuous
 💼 [LinkedIn](https://www.linkedin.com/in/melih-yiğit-kotman-29935624a/)  
 
 ---
-
-##  GitHub Stats
-![Melih's GitHub stats](https://github-readme-stats.vercel.app/api?username=MelihKotman&show_icons=true&theme=radical&count_private=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MelihKotman&layout=compact&theme=radical)  
-
----
-
