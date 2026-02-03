@@ -36,6 +36,22 @@ I enjoy exploring new technologies, solving algorithmic problems, and continuous
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MelihKotman&show_icons=true&theme=radical" alt="GitHub Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MelihKotman&layout=compact&theme=radical" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MelihKotman&theme=radical" alt="Streak Stats" />
+</div>
+
+---
+
 ##  Contact Me
 📧 [melihkotman@gmail.com](mailto:melihkotman@gmail.com)  
 💼 [LinkedIn](https://www.linkedin.com/in/melih-yiğit-kotman-29935624a/)  
