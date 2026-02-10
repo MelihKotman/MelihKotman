@@ -55,7 +55,7 @@ I am currently a participant at the **Google Artificial Intelligence and Technol
 
 ## 🏆 Courses & Academies
 
-- **Google Artificial Intelligence and Technology Academy** - Data Science Track (Selected Participant)
+- **Google Artificial Intelligence and Technology Academy** - Data Science Trainee (Selected Participant)
 - **Data Analysis School** - AI Trainee
 
 ---
