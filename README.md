@@ -1,9 +1,9 @@
 # `printf("Welcome to Melih's GitHub");`
 
 ## About Me
-Hi, I’m **Melih Yiğit Kotman**, a 3rd-year **Computer Engineering** student passionate about **Data Science** and **Artificial Intelligence**.
+Hi, I’m **Melih Yiğit Kotman**, a 4th-year **Computer Engineering** student passionate about **Data Science** and **Artificial Intelligence**.
 
-I am currently a participant at the **Google Artificial Intelligence and Technology Academy**, specializing in the **Data Science** track. My focus is on developing intelligent models, analyzing complex datasets, and solving algorithmic problems.
+I am specializing in the **Data Science** track. My focus is on developing intelligent models, analyzing complex datasets, and solving algorithmic problems.
 
 ### 🚀 Focus Areas
 - **Data Science:** Data Analysis, Visualization, Predictive Modeling.
@@ -46,20 +46,29 @@ I am currently a participant at the **Google Artificial Intelligence and Technol
 * Utilized algorithms like **Random Forest** and **CNN** for high-accuracy classification.
 * Focused on feature extraction from URLs to distinguish between legitimate and phishing sites.
 
-### 🤖 AI & Data Science Portfolio (Internship Project)
-* A comprehensive project focusing on advanced data analysis and deep learning implementations.
-* Applied **1D-CNN** models and statistical analysis techniques to solve real-world data problems.
-* Prepared as part of a specialized technical internship application.
+### ⚡️ homeV Energy Forecast Platform
+* Built a real-time energy forecasting platform using a microservice architecture with FastAPI, Go, Next.js, PostgreSQL/TimescaleDB, and LightGBM.
+* Developed streaming feature engineering, live anomaly detection, WebSocket-based data streaming, and interactive analytics dashboards for smart meter monitoring.
+* Achieved R² = 0.96 with a LightGBM forecasting model and implemented live model metrics, feature importance (XAI), and production-ready database-driven evaluation.
 
----
+### ⏾ Sleep Disorder Classification using Signal Processing Filters on Tabular Data (Paper - INERS'26)
+* Systematically compare different signal processing filters on tabular health data
+* Analyze their effect on classification performance
+* Investigate filter–model compatibility
+* Provide practical guidance for preprocessing strategies
 
-## 🏆 Courses & Academies
+### 🛫 Aircraft IFF Classifier
+* Developed a computer vision–based Identification Friend or Foe (IFF) system that classifies aircraft as friendly, hostile, or civilian from images.
+* Trained an EfficientNetB3 transfer learning model to recognize 7 aircraft classes (6 military and 1 civilian), achieving 98.03% test accuracy.
+* Applied CLAHE-based image preprocessing to improve robustness under low-light conditions and enhance classification performance.
 
-- **Google Artificial Intelligence and Technology Academy** - Data Science Trainee (Selected Participant)
-- **Data Analysis School** - AI Trainee
+### ☀️ Regime-Aware Adaptive Signal Filtering for Transformer-Based Solar Irradiance Forecasting (Book Chapter - Soon)
+* Developed an end-to-end Global Horizontal Irradiance (GHI) forecasting pipeline combining adaptive signal processing, Transformer-based deep learning, astronomical feature engineering, and Explainable AI (SHAP).
+* Designed a regime-aware preprocessing framework that automatically selects Savitzky–Golay, Moving Average, or Wavelet filtering based on detected weather conditions before model training.
+* Evaluated generalization and robustness through out-of-distribution (OOD) testing across unseen geographical locations while providing interpretable predictions with SHAP-based feature importance and temporal explanations.
 
 ---
 
 ## 📫 Contact Me
-📧 [melihkotman@gmail.com](mailto:melihkotman@gmail.com)  
+📧 [mykotman@icloud.com](mailto:mykotman@icloud.com)  
 💼 [LinkedIn](https://www.linkedin.com/in/melih-yiğit-kotman-29935624a/)
